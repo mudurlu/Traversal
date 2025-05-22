@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traversal", "Traversal\Traversal.csproj", "{ECC91062-B00D-4C17-B4A6-804EC92D5B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC91062-B00D-4C17-B4A6-804EC92D5B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC91062-B00D-4C17-B4A6-804EC92D5B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC91062-B00D-4C17-B4A6-804EC92D5B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC91062-B00D-4C17-B4A6-804EC92D5B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69DD9520-FA49-4735-843F-DEF642616D1A}
+	EndGlobalSection
+EndGlobal
