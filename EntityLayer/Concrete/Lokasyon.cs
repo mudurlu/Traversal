@@ -2,7 +2,7 @@
 {
     public class Lokasyon
     {
-        public int LokasyonID { get; set; }
+        public int LokasyonId { get; set; }
         public string Sehir { get; set; }
         public string GunGece { get; set; }
         public double Fiyat { get; set; }
