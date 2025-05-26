@@ -1,7 +1,10 @@
-﻿namespace EntityLayer.Concrete
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace EntityLayer.Concrete
 {
     public class Lokasyon
     {
+        [Key]
         public int LokasyonId { get; set; }
         public string Sehir { get; set; }
         public string GunGece { get; set; }

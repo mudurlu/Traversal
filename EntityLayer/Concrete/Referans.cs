@@ -1,7 +1,10 @@
-﻿namespace EntityLayer.Concrete
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace EntityLayer.Concrete
 {
     public class Referans
     {
+        [Key]
         public int ReferansId { get; set; }
         public string Musteri { get; set; }
         public string Yorum { get; set; }

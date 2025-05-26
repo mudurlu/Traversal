@@ -1,8 +1,11 @@
 ﻿
+using System.ComponentModel.DataAnnotations;
+
 namespace EntityLayer.Concrete
 {
     public class Iletisim
     {
+        [Key]
         public int IletisimId { get; set; }
         public string Aciklama { get; set; }
 
