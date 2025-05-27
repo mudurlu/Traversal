@@ -2,7 +2,7 @@
 
 namespace DAL.Abstract
 {
-    public interface IOneCikanDAL : IGenericDAL<OneCikan>
+    public interface IAltHakkimizdaDAL : IGenericDAL<AltHakkimizda>
     {
     }
 }
